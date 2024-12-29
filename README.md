@@ -1,21 +1,21 @@
 # Real-time-Positioning-System
 Login Interface
 
-![Login](https://github.com/user-attachments/assets/e1e00e6c-36cf-4a5a-9b76-ec8943a359d8)
+<img src="https://github.com/user-attachments/assets/e1e00e6c-36cf-4a5a-9b76-ec8943a359d8" width="360" height="640" />
 
 Register Interface
 
-![Register_photo](https://github.com/user-attachments/assets/8f03c49b-f1fb-4d1f-b9ce-bcbbb06676fb)
+<img src="https://github.com/user-attachments/assets/8f03c49b-f1fb-4d1f-b9ce-bcbbb06676fb" width="360" height="640" />
 
-![Register](https://github.com/user-attachments/assets/1fdca8e3-4eef-4261-ab28-0a0e9ffd93aa)
+<img src="https://github.com/user-attachments/assets/1fdca8e3-4eef-4261-ab28-0a0e9ffd93aa" width="360" height="640" />
 
 Real-time Positioning
 
-![realtimepositioning](https://github.com/user-attachments/assets/3d911520-9556-49a0-b75d-58c6df785d38)
+<img src="https://github.com/user-attachments/assets/3d911520-9556-49a0-b75d-58c6df785d38" width="360" height="640" />
 
 Send Rescue Signal
 
-![help](https://github.com/user-attachments/assets/a3b724b4-07e6-473f-9844-9a916a111fbe)
+<img src="https://github.com/user-attachments/assets/a3b724b4-07e6-473f-9844-9a916a111fbe" width="360" height="640" />
 
 Step1.
 Please add your own google api key to following files
